@@ -13,7 +13,6 @@
 
 
 ## گروه ها
-## گروه ها
 
 1. G-R01
     1.[_RPM02-28_محمد سرمست**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/28_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B1%D9%85%D8%B3%D8%AA) 
