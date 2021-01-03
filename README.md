@@ -6,7 +6,7 @@
 
 - [Github](https://github.com/Amin-tavakoli)
 - [PNU_3991_AR](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/README.md)
-- [resume]()
+- [resume](https://amin-tavakoli.github.io/tavakoli_amin.github.io/)
 - [SOP]()
 - [javascript Certificate]()
 - [jlord patchwork]()
