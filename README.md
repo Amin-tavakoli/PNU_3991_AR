@@ -6,10 +6,10 @@
 
 - [Github](https://github.com/Amin-tavakoli)
 - [PNU_3991_AR]()
-- [resume](https://rezvaneh77.github.io//)
-- [SOP](https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/)
-- [javascript Certificate](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf)
-- [jlord patchwork](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg)
+- [resume]()
+- [SOP]()
+- [javascript Certificate]()
+- [jlord patchwork]()
 
 
 ## گروه ها
