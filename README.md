@@ -31,7 +31,7 @@
     
 ## دروس کارشناسی
 
-[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/11_%D8%A7%D9%85%D9%8A%D9%86%20%D8%AA%D9%88%D9%83%D9%84%D9%8A%20%D8%B5%D9%88%D9%85%D8%B9%D9%87)
 --------------
 ## روز و ساعت ارائه دروس
 
