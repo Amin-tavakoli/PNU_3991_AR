@@ -18,7 +18,7 @@
 - [32.pdf](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/32.pdf)
 - [32.tex](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/32.tex)
 - [33.pdf](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/33.pdf)
-- [33.tex]()
+- [33.tex](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/33.tex)
 
 # ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر
 - [ارائه شفاهی با بیمر]()
