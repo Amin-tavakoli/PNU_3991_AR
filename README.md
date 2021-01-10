@@ -11,6 +11,19 @@
 - [javascript Certificate](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/js.pdf)
 - [jlord patchwork](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/jlord.jpg)
 
+-----------
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+-------------
+
+
 
 ## گروه ها
 
