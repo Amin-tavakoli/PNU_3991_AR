@@ -9,7 +9,7 @@
 - [resume](https://amin-tavakoli.github.io/tavakoli_amin.github.io/)
 - [SOP](https://amin-tavakoli.github.io/SOP/)
 - [javascript Certificate](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/js.pdf)
-- [jlord patchwork]()
+- [jlord patchwork](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/jlord.jpg)
 
 
 ## گروه ها
