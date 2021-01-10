@@ -7,7 +7,7 @@
 
 
 # معرفی دروس مشابه در دانشگاههای دیگر
--
+- [soas Universiry of london:Understanding Research Methods ](https://www.coursera.org/learn/research-methods)
 
 # جستجوی منابع دیگر
 - 
