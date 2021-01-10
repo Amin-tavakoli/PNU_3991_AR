@@ -10,7 +10,7 @@
 - [soas Universiry of london:Understanding Research Methods ](https://www.coursera.org/learn/research-methods)
 
 # جستجوی منابع دیگر
-- 
+- [پایان نامه ارشد دانشگاه لینایوس : Critical review of strategic theories: Applicable to new technologies ](http://lnu.diva-portal.org/smash/record.jsf?pid=diva2%3A1238891&dswid=-4726)
 
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 - [31.pdf](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/31.pdf)
