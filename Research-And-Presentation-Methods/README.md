@@ -22,7 +22,7 @@
 
 # ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر
 - [ارائه شفاهی با بیمر]()
-- [beamer.pdf](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.pdf)
+- [beamer.pdf](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Beamer.pdf)
 - [beamer.tex](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Beamer.tex)
 
 
