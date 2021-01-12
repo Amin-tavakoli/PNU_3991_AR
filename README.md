@@ -17,7 +17,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/_General/AT_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/_General/AT_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/AT_ResearchAndPresentationmethods_ChckList_AR_3991.pdf)
