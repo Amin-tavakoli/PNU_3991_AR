@@ -20,7 +20,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/Amin-tavakoli/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/AT_ResearchAndPresentationmethods_ChckList_AR_3991.pdf)
 -------------
 
 
